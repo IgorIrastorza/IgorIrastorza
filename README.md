@@ -4,9 +4,9 @@
 
 - 🎓 I'm just finishing my Engineering Bachelor in Industrial Organization/Management at Mondragon Unibertsitatea.
 - 💼 I’m currently working as Project Engineer (also doing my Bachelor Thesis there) in Orkli in the Industrial Services and Maintenance department.
-- 🚀 I’m also learning Computer Science and AI in the innovative school [The Egg.ai](https://theegg.ai/ "The Egg.ai").
+- 🚀 I’m also learning Computer Science and AI in the innovative school [The Egg.ai](https://theegg.ai/ "The Egg.ai") ([See the works carried out](https://github.com/IgorIrastorza/theegg_ai "The Egg.ai")).
 - 🥅 2022 Goals: finish my Engineering Bachelor and learn as much as possible about AI and Computer Science.
-- ⚡ Fun fact: I love aeronautics and doing sport.
+- ⚡ Fun fact: I love Aeronautics and doing Sport.
 
 ## Connect with me:
 
