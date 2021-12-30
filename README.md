@@ -2,7 +2,7 @@
 
 ## I'm an AI student and prospective Engineering Graduate in 2022!!
 
-- 🎓 I'm just finishing my Engineering Bachelor in Industrial Organization/Management.
+- 🎓 I'm just finishing my Engineering Bachelor in Industrial Organization/Management at Mondragon Unibertsitatea.
 - 💼 I’m currently working as Project Engineer (also doing my Bachelor Thesis there) in Orkli in the Industrial Services and Maintenance department.
 - 🚀 I’m also learning Computer Science and AI in the innovative school [The Egg.ai](https://theegg.ai/ "The Egg.ai").
 - 🥅 2022 Goals: finish my Engineering Bachelor and learn as much as possible about AI and Computer Science.
@@ -35,8 +35,6 @@
 
 | <a href="https://github.com/IgorIrastorza/theegg_ai"><img align="center" src="https://github-readme-stats.vercel.app/api?username=IgorIrastorza&show_icons=true&include_all_commits=true&theme=blue&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/IgorIrastorza/theegg_ai"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorIrastorza&layout=compact&theme=blue&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-<br />
 
 ## Top Repository:
 [comment]: <> (https://github.com/anuraghazra/github-readme-stats)
