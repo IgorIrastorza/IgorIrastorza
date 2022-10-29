@@ -3,8 +3,8 @@
 ## I'm an AI and Digital Manufacturing student passionate about technology!!
 
 - 🎓 I have just finished my Engineering Bachelor in Industrial Organization/Management at Mondragon Unibertsitatea.
-- 🎓 I am currently studying a Master of Science in Digital Manufacturing at UPV/EHU (IMH campus).
-- 💼 I’m currently working as R&D Engineer at Erreka Fastening Solutions, a company specialised in the world of critical joints.
+- 🎓 I’m currently studying a Master of Science in Digital Manufacturing at UPV/EHU (IMH campus).
+- 💼 I’m also working in the R&D and Engineering department at Erreka Fastening Solutions, a company specialised in the world of critical joints.
 - 🚀 I’m also learning Computer Science and AI in the innovative school [The Egg.ai](https://theegg.ai/ "The Egg.ai") ([See the works carried out](https://github.com/IgorIrastorza/theegg_ai "The Egg.ai")).
 - 🥅 2022 Goals: learn as much as possible about all the emerging technologies that are revolutionising the world we live in.
 - ⚡ Fun fact: I love Aeronautics and doing Sport.
